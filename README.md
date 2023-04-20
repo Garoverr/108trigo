@@ -1,3 +1,7 @@
+#  __Matrix Power Series__
+
+## Français
+
 #### Comme vous le savez peut-être (ou non), la fonction exponentielle peut être écrite comme la somme d'une série de puissances :
 
 ![Calcul](include/calcul108.png)
@@ -27,6 +31,9 @@ Les __fonctions supportées__ sont :
 Par exemple, vous pouvez exécuter :
 
 ![Exemple d'utilisation](include/exempleutilisation108.png)
+
+
+## English
 
 ##### As you may know (or not), the exponential function can be written as the sum of a power series:
 
